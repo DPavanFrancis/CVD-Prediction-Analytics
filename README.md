@@ -7,7 +7,7 @@ The prevalence of its associated risk factors has been found to exist increasing
 With the increase in cases numbers of epidemiological studies have been carried out in India to trace the prevalence of CVD over time. It is the first among the top 5 causes of death in the Indian population. In 2000, there were an estimated 29.8 million people with CVD in India out of a total estimated population of 1.03 billion or a nearly 3% overall prevalence.
 CVD comprises many different types of conditions. Some of these might develop at the same time or slowly develop into other conditions or diseases within the group. 
 
-Diseases and conditions that affect the heart include: 
+#Diseases and conditions that affect the heart include: 
 Angina: A type of chest pain that occurs due to decreased blood flow into the heart
 Arrhythmia: or an irregular heartbeat or heart rhythm
 Congenital heart disease: in which a problem with heart function or structure is present from birth 
@@ -15,10 +15,11 @@ Coronary artery disease: slows blood flow to your heart muscle, so it doesn’t 
 Heart attack: A sudden blockage to the heart’s blood flow and oxygen supply
 Heart failure: wherein the heart cannot contract or relax normally etc..,
 
-Problem Statement
+#Problem Statement:
+
 Readings of patients are given and the objective is to build an application to classify the patients to be healthy or suffering from cardiovascular disease based on the given attributes. People with high readings of CVD factors owith high risk of Cardiovascular disease need early detection and management where machine learning models can be of great help.
 
-Data Definition
+#Data Definition
 The dataset represents features features of patients. The data definition is as follow: ----Age: Age of the patient (integer)
 
 ----Height: Height of a person in cm (interger)
